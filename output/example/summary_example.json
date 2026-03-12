@@ -1,0 +1,24 @@
+{
+  "total_posts": 5,
+  "by_platform": {"twitter": 5},
+  "by_decision": {"accept": 5},
+  "by_media_type": {"video": 3, "image": 2},
+  "by_location_type": {
+    "residential": 1,
+    "beach": 1,
+    "hillside": 1,
+    "unknown": 1,
+    "landmark": 1
+  },
+  "score_distribution": {
+    "high (>=8)": 4,
+    "medium (6-7)": 1,
+    "low (4-5)": 0
+  },
+  "extraction_stats": {
+    "success": 5,
+    "failed": 0,
+    "error": 0,
+    "partial": 0
+  }
+}
