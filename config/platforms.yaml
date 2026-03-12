@@ -1,0 +1,21 @@
+platforms:
+  twitter:
+    domain: twitter.com
+    alternate_domain: x.com
+    enabled: true
+  instagram:
+    domain: instagram.com
+    enabled: true
+  tiktok:
+    domain: tiktok.com
+    enabled: true
+  youtube:
+    domain: youtube.com
+    enabled: true
+  reddit:
+    domain: reddit.com
+    enabled: true
+
+search_engines:
+  - bing
+  - duckduckgo
